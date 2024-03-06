@@ -8,16 +8,16 @@ export function main() {
 
     //Remova os comentários do bloco que deseja ver a resposta
 
- /*  console.log("##### Exercício 1 #####");
-  ExerciseOne.showAnswer(); */
+  console.log("##### Exercício 1 #####");
+  ExerciseOne.showAnswer();
 
-  /* console.log("\n##### Exercício 2 #####");
+/*   console.log("\n##### Exercício 2 #####");
   ExerciseTwo.showAnswer(); */
 
 /*   console.log("\n##### Exercício 3 #####");
   ExerciseThree.showAnswer(); */
 
-  console.log("\n##### Exercício 5 #####");
-  ExerciseFive.showAnswer();
+/*   console.log("\n##### Exercício 5 #####");
+  ExerciseFive.showAnswer(); */
 }
 main();

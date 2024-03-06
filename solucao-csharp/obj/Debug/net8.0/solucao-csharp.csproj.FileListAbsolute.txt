@@ -26,3 +26,4 @@ C:\codes\Desafio-Target\solucao-csharp\obj\Debug\net8.0\refint\solucao-csharp.dl
 C:\codes\Desafio-Target\solucao-csharp\obj\Debug\net8.0\solucao-csharp.pdb
 C:\codes\Desafio-Target\solucao-csharp\obj\Debug\net8.0\solucao-csharp.genruntimeconfig.cache
 C:\codes\Desafio-Target\solucao-csharp\obj\Debug\net8.0\ref\solucao-csharp.dll
+C:\codes\Desafio-Target\solucao-csharp\obj\Debug\net8.0\solucao-csharp.sourcelink.json
