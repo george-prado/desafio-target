@@ -1,0 +1,13 @@
+# Desafio Target 2024
+
+[Demonstração da Solução em C#](https://youtu.be/R0AJ6f4mAdA)
+[Demonstração da Solução em Java](https://youtu.be/LIicODASqoI)
+[Demonstração da Solução em Node.js](https://youtu.be/sOZSL3k7BZI)
+
+## Author
+
+[George Alberto Melo do Prado](https://github.com/george-prado)
+
+##
+
+Linkedin: https://www.linkedin.com/in/george-prado-dev
