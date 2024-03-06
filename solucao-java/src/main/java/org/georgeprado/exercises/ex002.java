@@ -38,8 +38,4 @@ public class ex002 {
         }
         return false;
     }
-
-    public static void main(String[] args) {
-        showAnswer();
-    }
 }

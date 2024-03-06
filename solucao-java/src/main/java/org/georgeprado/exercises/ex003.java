@@ -80,8 +80,4 @@ public class ex003 {
         System.out.println(numerosPorExtenso.keySet());
         System.out.println(numerosPorExtenso.values());
     }
-
-    public static void main(String[] args) {
-        showAnswer();
-    }
 }
